@@ -46,7 +46,7 @@
   cursor: pointer;
 }
 
-this is my cart.css file .cart {
+.cart {
   display: flex;
   flex-direction: column;
   justify-content: center;
